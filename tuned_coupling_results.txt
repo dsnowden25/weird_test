@@ -1,0 +1,45 @@
+TUNED ELECTRICAL-QUANTUM COUPLING RESULTS
+==================================================
+
+OPTIMIZATION RESULTS:
+Best Impedance Matching Performance: 0.000095
+  Optimal Frequency: 5.000 GHz
+  Optimal Amplitude: 0.1000
+Best Phase Matching Performance: 0.000043
+  Optimal Frequency: 4.500 GHz
+  Optimal Phase: 0.000 rad
+
+METHOD COMPARISON:
+STANDARD_CONTINUOUS:
+  Average Coherence: 0.000039
+  Maximum Coherence: 0.000072
+  Electrical Efficiency: 0.000778
+  Coherence Stability: 0.000017
+
+STANDARD_PULSED:
+  Average Coherence: 0.001355
+  Maximum Coherence: 0.002201
+  Electrical Efficiency: 0.451726
+  Coherence Stability: 0.000501
+
+IMPEDANCE_MATCHED:
+  Average Coherence: 0.000213
+  Maximum Coherence: 0.000397
+  Electrical Efficiency: 0.000115
+  Coherence Stability: 0.000099
+
+PHASE_MATCHED:
+  Average Coherence: 0.000049
+  Maximum Coherence: 0.000063
+  Electrical Efficiency: 0.009332
+  Coherence Stability: 0.000007
+
+FREQUENCY_SWEPT:
+  Average Coherence: 0.000025
+  Maximum Coherence: 0.000039
+  Electrical Efficiency: 0.002007
+  Coherence Stability: 0.000010
+
+BEST PERFORMING METHOD: standard_pulsed
+Best Average Coherence: 0.001355
+

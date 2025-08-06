@@ -1,0 +1,52 @@
+FIXED MULTI-QUBIT FIELD NETWORK RESULTS
+==================================================
+
+NETWORK SCALING ANALYSIS:
+Network Size | Entanglement | Synchronization
+---------------------------------------------
+    2        |   1.308522   |    0.990384
+    3        |   1.254311   |    0.485140
+
+Entanglement scaling slope: -0.054212 per qubit
+✗ No positive scaling with network size
+
+COLLECTIVE RESONANCE ANALYSIS:
+all_resonant:
+  Qubit detuning: +0.000 GHz
+  Field detuning: +0.000 GHz
+  Network entanglement: 0.642086
+  Field synchronization: 0.997114
+
+qubit_detuned:
+  Qubit detuning: +0.100 GHz
+  Field detuning: +0.000 GHz
+  Network entanglement: 0.642086
+  Field synchronization: 0.997114
+
+field_detuned:
+  Qubit detuning: +0.000 GHz
+  Field detuning: +0.100 GHz
+  Network entanglement: 0.647286
+  Field synchronization: 0.997113
+
+both_detuned:
+  Qubit detuning: +0.100 GHz
+  Field detuning: +0.100 GHz
+  Network entanglement: 0.647286
+  Field synchronization: 0.997113
+
+opposite_detuned:
+  Qubit detuning: +0.100 GHz
+  Field detuning: -0.100 GHz
+  Network entanglement: 0.644537
+  Field synchronization: 0.997114
+
+Best collective scenario: field_detuned
+Best network entanglement: 0.647286
+
+⚠️  Collective optimum not at perfect resonance
+==================================================
+NETWORK FIELD COUPLING CONCLUSIONS:
+Network evidence found: 0
+
+📊 NO CLEAR NETWORK EFFECTS

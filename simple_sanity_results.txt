@@ -1,0 +1,29 @@
+SIMPLE SANITY CHECK RESULTS
+========================================
+
+EXCELLENT_QUBIT:
+  CW Average Coherence: 0.00137818
+  Pulsed Average Coherence: 0.00605420
+  Ratio (CW/Pulsed): 0.228
+
+GOOD_QUBIT:
+  CW Average Coherence: 0.00124440
+  Pulsed Average Coherence: 0.00262848
+  Ratio (CW/Pulsed): 0.473
+
+MEDIOCRE_QUBIT:
+  CW Average Coherence: 0.00131207
+  Pulsed Average Coherence: 0.00161639
+  Ratio (CW/Pulsed): 0.812
+
+POOR_QUBIT:
+  CW Average Coherence: 0.00131105
+  Pulsed Average Coherence: 0.00203467
+  Ratio (CW/Pulsed): 0.644
+
+OVERALL RESULTS:
+Average CW/Pulsed Ratio: 0.539 ± 0.216
+Consistent advantage: 0/4 scenarios
+
+📊 SIMPLE TEST CONCLUSION: No significant advantage
+Continuous and pulsed perform similarly

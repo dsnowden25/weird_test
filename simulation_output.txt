@@ -1,0 +1,22 @@
+ELECTRICAL-QUANTUM COUPLING SIMULATION
+=============================================
+
+PARAMETERS:
+Electrical frequency: 1.0
+Quantum frequency: 1.0
+Coupling strength: 0.1
+Simulation time: 50
+
+CONTINUOUS WAVE RESULTS:
+Average coherence: 0.484129
+Max coherence: 0.999998
+Final excited population: 0.927453
+
+PULSED DRIVE RESULTS:
+Average coherence: 0.377577
+Max coherence: 0.636471
+Final excited population: 0.101380
+
+COMPARISON:
+Coherence ratio (CW/Pulsed): 1.282
+>>> CONTINUOUS WAVE WINS! <<<

@@ -1,0 +1,58 @@
+ENHANCED NONLINEAR QUANTUM SIMULATION RESULTS
+Designed to Differentiate Pulse Types
+============================================================
+
+SYSTEM PARAMETERS (OPTIMIZED FOR PULSE DIFFERENTIATION):
+Sites: 4, Modes per site: 6
+Anharmonicity: -500 MHz (STRONG)
+Kerr nonlinearity: 80 MHz
+Spatial coupling: 150 MHz
+Leakage penalty: 2.0×
+
+PULSE TYPE PERFORMANCE COMPARISON:
+
+1. GAUSSIAN SOFT:
+   Average Entanglement: 0.000000
+   Maximum Entanglement: 0.000000
+   Final Purity: 0.922661
+   Leakage Penalty: 0.000000
+   Propagation Correlation: 0.000000
+   Average Delay: nan μs
+
+2. DRAG AGGRESSIVE:
+   Average Entanglement: 0.000000
+   Maximum Entanglement: 0.000000
+   Final Purity: 0.922661
+   Leakage Penalty: 0.000000
+   Propagation Correlation: 0.000000
+   Average Delay: nan μs
+
+3. CHIRPED BRUTAL:
+   Average Entanglement: 0.000000
+   Maximum Entanglement: 0.000000
+   Final Purity: 0.922661
+   Leakage Penalty: 0.000000
+   Propagation Correlation: 0.000000
+   Average Delay: nan μs
+
+4. BANG BANG:
+   Average Entanglement: 0.000000
+   Maximum Entanglement: 0.000000
+   Final Purity: 0.922661
+   Leakage Penalty: 0.000000
+   Propagation Correlation: 0.000000
+   Average Delay: nan μs
+
+PULSE DIFFERENTIATION ANALYSIS:
+Performance spread: 0.000000 entanglement units
+Leakage spread: 0.000000 leakage units
+
+❌ NO SIGNIFICANT PULSE DIFFERENTIATION
+All methods perform essentially identically
+System may be in linear regime or pulses too weak
+
+SPATIAL PROPAGATION ANALYSIS:
+gaussian_soft: max correlation = 0.0000, avg delay = nan μs
+DRAG_aggressive: max correlation = 0.0000, avg delay = nan μs
+Theoretical max delay: 1.500 μs
+⚠️  Propagation delays below detection threshold
